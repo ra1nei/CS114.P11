@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - ✨ I do things wholeheartedly.
 - 📫 Fun fact: 
   - 🔭 I used to do [Competitive Programming](https://codeforces.com/profile/Shogun3103).
-  - ⚡ I use NixOS and Window.
-  - 💎 I love Obsidian and (am learning how to use Anki).
-  - 🦜 I'm learning English.
+  - ⚡ I'm shifting from Window to NixOS.
+  - 💎 I love Obsidian (and am learning how to use Anki).
+  - 🦜 I'm learning English (and will learn Japanese as soon as I'm confident with my English).
   <!--- 📝 I have a [personal blog](https://hynduf.github.io).-->
 
 # Thông tin Môn học
