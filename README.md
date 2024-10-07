@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 # Thông tin Thành viên
 | MSSV       | Họ và Tên          | Email                   | Github                                                                                                                      |
 | ---------- | ------------------ | ----------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| `22520195` | Trần Đình Khánh Đăng| 222520195@gm.uit.edu.vn | [![](https://img.shields.io/badge/sloweyyy-%2324292f.svg?style=flat-square&logo=github      )](https://github.com/ra1nei) |
+| `22520195` | Trần Đình Khánh Đăng| 222520195@gm.uit.edu.vn | [![](https://img.shields.io/badge/ra1nei-%2324292f.svg?style=flat-square&logo=github      )](https://github.com/ra1nei) |
